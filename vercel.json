@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://exultant-bobcat-35f.notion.site/41fb12745b0980ca88e0eb67cd8a9ccc?v=41fb12745b098027955d000c1a43d51f",
-      "permanent": false
-    }
-  ]
-}
